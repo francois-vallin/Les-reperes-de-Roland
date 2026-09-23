@@ -57,6 +57,9 @@ Le panneau « Domotique à connecter » est une carte de ce qui a existé ou peu
 - [Documentation complète](DOCUMENTATION.md) — histoire, usages, architecture et limites ;
 - [Guide de contribution](CONTRIBUTING.md) — comment proposer une amélioration avec délicatesse ;
 - [Respect de la vie privée](PRIVACY.md) — principes pour une installation réelle ;
+- [Charte de contribution](CODE_OF_CONDUCT.md) — le cadre humain du projet ;
+- [Support](SUPPORT.md) — où demander de l’aide ou proposer une idée ;
+- [Wiki de démarrage](docs/wiki/Home.md) — guides courts à publier dans le wiki GitHub ;
 - [Journal des versions](CHANGELOG.md) — repères dans l’évolution du projet.
 
 Ce dépôt est une édition neuve et autonome : il ne contient aucun historique technique antérieur. Seul `public/` doit être exposé par le serveur web.

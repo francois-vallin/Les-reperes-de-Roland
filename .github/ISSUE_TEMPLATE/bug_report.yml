@@ -1,0 +1,24 @@
+name: Signaler un problème
+description: Décrire un comportement qui empêche l’application d’aider au quotidien.
+title: "[Problème] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Merci de ne jamais inclure de données personnelles, médicales ou identifiantes."
+  - type: textarea
+    id: expected
+    attributes:
+      label: Ce qui devait se passer
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Ce qui se passe réellement
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Appareil et navigateur

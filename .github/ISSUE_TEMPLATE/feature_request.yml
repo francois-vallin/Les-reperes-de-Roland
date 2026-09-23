@@ -1,0 +1,20 @@
+name: Proposer une amélioration
+description: Suggérer une fonction qui soutient concrètement l’autonomie à domicile.
+title: "[Idée] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "Utilisez uniquement un exemple fictif et expliquez le bénéfice humain recherché."
+  - type: textarea
+    id: need
+    attributes:
+      label: Quel besoin quotidien cette idée aide-t-elle à résoudre ?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposition
+    validations:
+      required: true
