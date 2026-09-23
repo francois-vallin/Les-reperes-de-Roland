@@ -1,0 +1,18 @@
+{
+    "name": "francois/les-reperes-de-roland",
+    "type": "project",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "scripts": {
+        "lint": [
+            "@php -l public/index.php",
+            "@php -l public/api.php",
+            "@php -l public/visio.php"
+        ]
+    }
+}
