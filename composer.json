@@ -13,6 +13,7 @@
             "@php -l public/index.php",
             "@php -l public/api.php",
             "@php -l public/visio.php"
-        ]
+        ],
+        "serve": "@php -S localhost:8080 -t public"
     }
 }

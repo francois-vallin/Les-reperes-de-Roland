@@ -1,0 +1,19 @@
+name: Vérifier le projet
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  php-lint:
+    name: Syntaxe PHP
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          extensions: pdo_sqlite
+      - run: composer install --no-interaction --no-progress --prefer-dist
+      - run: composer lint

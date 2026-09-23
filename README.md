@@ -64,6 +64,19 @@ Le panneau « Domotique à connecter » est une carte de ce qui a existé ou peu
 
 Ce dépôt est une édition neuve et autonome : il ne contient aucun historique technique antérieur. Seul `public/` doit être exposé par le serveur web.
 
+## Publier une amélioration
+
+La publication du code doit rester simple : une fois la modification prête, vérifiez-la puis poussez-la vers GitHub.
+
+```powershell
+composer lint
+git add -A
+git commit -m "feat: décrire l’amélioration"
+git push
+```
+
+GitHub vérifie automatiquement la syntaxe PHP à chaque envoi. Pour lancer l’application en local, utilisez simplement `composer serve`.
+
 ## Contact
 
 Pour partager une expérience, poser une question ou contribuer : [fjvallin2024@gmail.com](mailto:fjvallin2024@gmail.com).
