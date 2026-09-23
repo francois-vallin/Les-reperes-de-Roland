@@ -298,7 +298,7 @@ La visio est la première de ces intégrations à être réellement préparée d
 
 Cette installation familiale ne demande ni mot de passe ni secret à configurer. À chaque appel, l’application génère seulement des jetons techniques temporaires entre la tablette et l’appelant. Le navigateur de la tablette devra avoir reçu les autorisations nécessaires (caméra et microphone) une première fois. WebRTC fonctionne directement entre les deux navigateurs lorsque le réseau le permet ; une installation étendue pourra ajouter son propre serveur STUN/TURN si les appareils sont sur des réseaux distincts. L'administration conserve aussi un bouton pour terminer l'appel à distance. [La documentation WebRTC de MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling) explique ce rôle de signalisation et l’échange pair à pair.
 
-Contact public du projet : [fjvallin@gmail.com](mailto:fjvallin@gmail.com).
+Contact public du projet : [fjvallin2024@gmail.com](mailto:fjvallin2024@gmail.com).
 
 ## 12. Utiliser la v5 aujourd’hui
 

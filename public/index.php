@@ -37,7 +37,7 @@ if (!in_array($view, ['tablet', 'admin'], true)) {
         <section id="video-call" class="video-call" hidden aria-label="Appel vidéo en cours">
             <iframe id="video-frame" title="Appel vidéo" allow="camera; microphone; autoplay; fullscreen; display-capture" allowfullscreen></iframe>
         </section>
-        <footer><span>Avec toi, même quand nous ne sommes pas là.</span><span>À la mémoire de Roland Vallin.</span><a href="mailto:fjvallin@gmail.com">Contact</a></footer>
+        <footer><span>Avec toi, même quand nous ne sommes pas là.</span><span>À la mémoire de Roland Vallin.</span><a href="mailto:fjvallin2024@gmail.com">Contact</a></footer>
     </main>
 <?php else: ?>
     <main id="admin" class="admin-shell">

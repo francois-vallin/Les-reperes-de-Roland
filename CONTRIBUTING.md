@@ -24,4 +24,4 @@ Get-ChildItem src -Filter *.php | ForEach-Object { php -l $_.FullName }
 
 Les fonctions qui touchent aux caméras, à la domotique, aux urgences, à la visio ou aux informations de santé doivent être discutées avant toute implémentation. Elles dépendent du domicile, du consentement de la personne et de ses proches, ainsi que des appareils réellement disponibles.
 
-Vous pouvez écrire à [fjvallin@gmail.com](mailto:fjvallin@gmail.com) ou ouvrir une issue avec un exemple entièrement fictif.
+Vous pouvez écrire à [fjvallin2024@gmail.com](mailto:fjvallin2024@gmail.com) ou ouvrir une issue avec un exemple entièrement fictif.

@@ -66,6 +66,6 @@ Ce dépôt est une édition neuve et autonome : il ne contient aucun historique 
 
 ## Contact
 
-Pour partager une expérience, poser une question ou contribuer : [fjvallin@gmail.com](mailto:fjvallin@gmail.com).
+Pour partager une expérience, poser une question ou contribuer : [fjvallin2024@gmail.com](mailto:fjvallin2024@gmail.com).
 
 > Les exemples publics sont volontairement anonymisés. N’ajoutez jamais de données de santé, de coordonnées ou d’images identifiantes d’une personne accompagnée dans un dépôt public.
